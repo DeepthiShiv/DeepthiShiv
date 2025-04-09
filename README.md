@@ -60,8 +60,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=deepthishiv&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+  <!-- Contribution Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=deepthishiv&theme=dark&hide_border=false" height="200" alt="GitHub Stats" />
+
 
 ###
