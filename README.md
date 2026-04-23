@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🔭 Final year undergraduate student pursuing a Bachelor of Engineering in Information Science<br>📚 Currently deepening my skills in full-stack development<br>⚡ In my free time, I love crafting engaging user interfaces — from wireframe to wow — ensuring every pixel serves a purpose and feels just right</p>
+<p align="left">🔭Undergraduate student pursuing a Bachelor of Engineering in Information Science<br>📚 Currently deepening my skills in full-stack development<br>⚡ In my free time, I love crafting engaging user interfaces — ensuring every pixel serves a purpose and feels just right</p>
 
 ###
 
